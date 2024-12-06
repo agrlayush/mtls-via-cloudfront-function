@@ -1,3 +1,6 @@
+// Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+// SPDX-License-Identifier: MIT-0
+
 // This code needs to be incorporated at the source e.g: mobile application, server side code.
 // The secret_salt should be same as mention in the cloudfront function. Secret_salt needs to be kept secret
 const crypto = require('crypto');
